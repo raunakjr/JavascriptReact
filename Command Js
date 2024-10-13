@@ -1,0 +1,23 @@
+To Run on Powershell - node fileName + Tab
+To clear the Terminal- cls
+
+ls -is used to list files and directories in the current working directory. It helps you see what’s inside a folder.
+
+ls -l: Lists files in a detailed format (permissions, file size, modification date, etc.)
+ls -a: Shows hidden files (those starting with .)
+ls -lh: Lists files with human-readable file sizes (e.g., KB, MB).
+
+cd is used to move into a different directory (or folder).// cd.. to move in up directory
+
+mkdir (Make Directory): // make folder
+
+rm (Remove File)
+rmdir (Remove Folder/Directory)
+
+touch myfile.txt // create new files 
+New-Item script1.js // in Powershell
+
+
+cat (Concatenate and Display File Content):
+
+echo "Hello, World!" > exp.txt  // > to redirect output
